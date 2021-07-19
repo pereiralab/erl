@@ -16,11 +16,11 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/home.md", title: "Home"}
-  - {file: "/people.md", title: "People"}
-  - {file: "/projects.md", title: "Projects"}
-  - {file: "/papers.md", title: "Publications"}
-  - {title: "Profile", url: "https://staffportal.curtin.edu.au/staff/profile/view/gavin-pereira-0374b4b1/"}
+  - {file: "home.md", title: "Home"}
+  - {file: "people.md", title: "People"}
+  - {file: "projects.md", title: "Projects"}
+  - {file: "posts.html", title: "Posts"}
+  - {file: "papers.md", title: "Publications"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:gavin.f.pereira@curtin.edu.au"}
