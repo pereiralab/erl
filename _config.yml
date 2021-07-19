@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "home.md", title: "Home"}
+  - {file: "index.md", title: "Home"}
   - {file: "people.md", title: "People"}
   - {file: "projects.md", title: "Projects"}
   - {file: "posts.html", title: "Posts"}
