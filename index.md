@@ -1,0 +1,11 @@
+---
+layout: page
+title: ""
+---
+
+
+### Welcome!
+
+_I lead an international program of research to better understand, and thereby influence, the determinants of health and wellbeing._
+
+On this site you can find out more about my research. The content is mine and reflects my own perspectives but you can also see my [academic profile](https://staffportal.curtin.edu.au/staff/profile/view/gavin-pereira-0374b4b1/) for the official stuff.
