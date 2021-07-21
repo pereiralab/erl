@@ -1,6 +1,6 @@
 title: "Gavin Pereira"
 author: "Gavin Pereira"
-description: "Gavin Pereira, Professor of Epidemiology. PhD W.Aust., MAppStats ANU, BCM (Hons) W.Aust., GCRC QUT"
+description: "Gavin Pereira. Professor. PhD W.Aust., MAppStats ANU, BCM (Hons) W.Aust., GCRC QUT"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,10 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "people.md", title: "People"}
-  - {file: "projects.md", title: "Projects"}
   - {file: "posts.md", title: "Posts"}
+  - {file: "projects.md", title: "Projects"}
   - {file: "papers.md", title: "Publications"}
+  - {file: "people.md", title: "People"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto: ai@curtin.edu.au"}
