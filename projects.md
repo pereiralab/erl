@@ -9,5 +9,5 @@ layout: page
 ![Stillbirth prediction with machine learning](/assets/Stillbirth ML icon.png)
 ![img|320x271](/assets/Stillbirth ML icon.png)
 ![[img|320x271]](/assets/Stillbirth ML icon.png)
-<img src="/assets/Stillbirth ML icon.png" width="10">
+<img src="/assets/Stillbirth ML icon.png" width="85">
 test
