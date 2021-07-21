@@ -12,7 +12,7 @@ Free copies of publications can be obtained from [my ResearchGate page](https://
 As I have published > 100 papers in peer-reviewed journals, I have not provided a list in this site. You can find these on my
 1. [my Google Scholar site](https://scholar.google.com/citations?user=m27YBy8AAAAJ&hl=en)
 2. [my ORCID site](https://orcid.org/0000-0003-3740-8117)
-3. [my institutional profile](https staffportal.curtin.edu.au/staff/profile/view/gavin-pereira-0374b4b1/) 
+3. [my institutional profile](https://staffportal.curtin.edu.au/staff/profile/view/gavin-pereira-0374b4b1/) 
 
 ## Featured publications
 I have listed one important publication per year since 2010 led by myself as first or senior (last) author.
