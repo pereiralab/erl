@@ -7,4 +7,4 @@ title: ""
 
 
 
-<img src="https://gavinfpereira.github.io/assets/datasaurus.gif" width="400" height="400" />
+<img src="https://gavinfpereira.github.io/assets/placeholder.gif" width="400" height="400" />
