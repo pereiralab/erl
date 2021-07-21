@@ -10,4 +10,5 @@ layout: page
 ![img|320x271](/assets/Stillbirth ML icon.png)
 ![[img|320x271]](/assets/Stillbirth ML icon.png)
 <img src="/assets/Stillbirth ML icon.png" width="85">
+[[ /assets/Stillbirth ML icon.png \| height=48px]]
 test
