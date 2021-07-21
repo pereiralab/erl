@@ -3,6 +3,6 @@ layout: page
 title: ""
 ---
 
-## Projects
+## Projects 
 
-![Stillbirth prediction with machine learning](/assets/Stillbirth ML icon.png#thumbnail)
+![[Stillbirth prediction with machine learning /assets/Stillbirth ML icon.png | height=100px]]
