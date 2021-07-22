@@ -14,6 +14,12 @@ We discovered that there is insufficient evidence to suggest short IPI is harmfu
 
 <br>
 
+The following figure shows the extent to which associations between IPI and autistic spectrum disorder decrease after adjustment for socioeconomic, psychiatric and latent (unobserved) confounders. This discovery demonstrates that effects of short IPI have been overstated and effects of long IPI (possibly via biological aging) have been understated.
+
+<img src="https://gavinfpereira.github.io/assets/ipi and asd.mp4" width="600" alt="IPI and ASD">
+
+<br>
+
 **Publication(s)**
 * Gebremedhin, A. T., A. K. Regan, S. Ball, A. P. Betrán, D. Foo, M. Gissler, S. E. Håberg, E. Malacova, M. L. Marinovich, and **G. Pereira. 2021**. "Interpregnancy interval and hypertensive disorders of pregnancy: A population-based cohort study." Paediatric and Perinatal Epidemiology 35 (4): 404-414
 * Marinovich, M. L., A. K. Regan, M. Gissler, M. C. Magnus, S. E. Håberg, J. A. Mayo, G. M. Shaw, J. Bell, N. Nassar, S. Ball, ..., and **G. Pereira**. 2021. "Associations between interpregnancy interval and preterm birth by previous preterm birth status in four high-income countries: a cohort study." BJOG: An International Journal of Obstetrics and Gynaecology 128 (7): 1134-1143
