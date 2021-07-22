@@ -8,6 +8,9 @@ Interpregnancy interval (IPI) is the time between birth and start of the next pr
 We discovered that there is insufficient evidence to suggest short IPI is harmful after experiencing a stillbirth.Based on findings from our international research we also discovered that the harms of short IPI are present, but are much smaller than once thought. The following figure shows odds ratios for effects of IPI on preterm birth for four high-income countries. Points (odds ratios) to the right of the vertical line indicate harm. Horizontal lines indicate certainty (95% confidence intervals). The diamonds represent the estimate for all countries together (pooled meta-analysis estimates). 
 
 <img src="https://journals.plos.org/plosone/article/figure/image?size=large&id=info:doi/10.1371/journal.pone.0255000.g001" width="600" alt="IPI and PTB">
+
+<br>
+
 [Source:PLoS One 16 (7)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255000)
 
 <br>
