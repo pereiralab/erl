@@ -16,7 +16,6 @@ The following figure shows the extent to which associations between IPI and auti
 
 <img src="https://gavinfpereira.github.io/assets/ipi and asd.gif" width="400" height="400" /> 
 
-<br>
 
 **Publication(s)**
 * Gebremedhin, A. T., A. K. Regan, S. Ball, A. P. Betrán, D. Foo, M. Gissler, S. E. Håberg, E. Malacova, M. L. Marinovich, and **G. Pereira. 2021**. "Interpregnancy interval and hypertensive disorders of pregnancy: A population-based cohort study." Paediatric and Perinatal Epidemiology 35 (4): 404-414
