@@ -6,7 +6,11 @@ title: "Evidence-based recommendations for intepregnancy intervals and family pl
 Interpregnancy interval (IPI) is the time between birth and start of the next pregnancy with short IPI linked to adverse maternal and child health outcomes.  The current World Health Organisation (WHO) recommendations for IPI are heavily driven by studies on low-middle income populations, where women’s recovery time must be considered against a background of nutritional depletion and extraordinary burden of disease. The current obstetric recommendations to wait at least 18-24 months after live birth before trying to conceive again are not necessarily relevant in high-income countries, where the changing obstetric profile (increasing maternal age, increasing caesarean section rates and increasing chronic morbidities) is most relevant. Importantly, IPI recommendations must be balanced against an increasing prevalence of women starting a family later in life. For the majority of women, the harms of longer IPIs at advanced maternal age might outweigh the benefits of avoiding adverse pregnancy outcomes associated with shorter IPIs. 
 
 We discovered that there is insufficient evidence to suggest short IPI is harmful after experiencing a stillbirth.Based on findings from our international research we also discovered that the harms of short IPI are present, but are much smaller than once thought. The following figure shows odds ratios for effects of IPI on preterm birth for four high-income countries. Points (odds ratios) to the right of the vertical line indicate harm. Horizontal lines indicate certainty (95% confidence intervals). The diamonds represent the estimate for all countries together (pooled meta-analysis estimates). 
+
 <img src="https://journals.plos.org/plosone/article/figure/image?size=large&id=info:doi/10.1371/journal.pone.0255000.g001" width="600" alt="IPI and PTB">
+[Source:PLoS One 16 (7)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255000)
+
+<br>
 
 **Publication(s)**
 * Gebremedhin, A. T., A. K. Regan, S. Ball, A. P. Betrán, D. Foo, M. Gissler, S. E. Håberg, E. Malacova, M. L. Marinovich, and **G. Pereira. 2021**. "Interpregnancy interval and hypertensive disorders of pregnancy: A population-based cohort study." Paediatric and Perinatal Epidemiology 35 (4): 404-414
