@@ -18,6 +18,10 @@ The following figure shows the extent to which associations between IPI and auti
 
 <img src="https://gavinfpereira.github.io/assets/ipi and asd.mp4" width="600" alt="IPI and ASD">
 
+[![Watch the video](https://gavinfpereira.github.io/assets/ipi and asd.mp4)](https://gavinfpereira.github.io/assets/ipi and asd.mp4)
+
+<img src="https://gavinfpereira.github.io/assets/ipi and asd.mp4" width="400" height="400" /> 
+
 <br>
 
 **Publication(s)**
