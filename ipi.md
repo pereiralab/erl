@@ -9,7 +9,6 @@ We discovered that there is insufficient evidence to suggest short IPI is harmfu
 
 <img src="https://journals.plos.org/plosone/article/figure/image?size=large&id=info:doi/10.1371/journal.pone.0255000.g001" width="600" alt="IPI and PTB">
 
-<br>
 
 [Source:PLoS One 16 (7)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255000)
 
