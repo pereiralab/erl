@@ -16,11 +16,7 @@ We discovered that there is insufficient evidence to suggest short IPI is harmfu
 
 The following figure shows the extent to which associations between IPI and autistic spectrum disorder changes after control for socioeconomic, psychiatric and latent (unobserved) confounders. This discovery demonstrates that effects of short IPI have been overstated and effects of long IPI (possibly via biological aging) have been understated.
 
-<img src="https://gavinfpereira.github.io/assets/ipi and asd.mp4" width="600" alt="IPI and ASD">
-
-[![Watch the video](https://gavinfpereira.github.io/assets/ipi and asd.mp4)](https://gavinfpereira.github.io/assets/ipi and asd.mp4)
-
-<img src="https://gavinfpereira.github.io/assets/ipi and asd.mp4" width="400" height="400" /> 
+<img src="https://gavinfpereira.github.io/assets/ipi and asd.gif" width="400" height="400" /> 
 
 <br>
 
