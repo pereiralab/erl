@@ -8,7 +8,7 @@ title: ""
   
 
 <p align="center">
-<img src="https://gavinfpereira.github.io/assets/childmortality.gif" width="400" height="400" /> .
+<img src="https://gavinfpereira.github.io/assets/childmortality.gif" width="400" height="400" /> 
 </p>
 <p align="center">
 <sub><sup>Animation: G.Pereira<br>Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population </sup></sub>
