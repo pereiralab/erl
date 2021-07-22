@@ -10,5 +10,5 @@ title: ""
 </p>
 
 <p align="center">
-<sub>Animation: G.Pereira. Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population</sub>
+<sub><sup>Animation: G.Pereira. Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population </sup></sub>
 </p>
