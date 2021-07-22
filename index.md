@@ -7,4 +7,5 @@ title: ""
 
 
 <img src="https://gavinfpereira.github.io/assets/childmortality.gif" width="400" height="400" />
-<sub><sup>Animation: G.Pereira. Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population </sup></sub>
+<br>
+<sub><sup>Animation: G.Pereira.<br>Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population </sup></sub>
