@@ -17,10 +17,11 @@ The following figure shows the extent to which associations between IPI and auti
 <img src="https://gavinfpereira.github.io/assets/ipi and asd.gif" width="400" height="400" /> 
 
 
+Project lead: [Prof Gavin Pereira](https://gavinfpereira.github.io/pereira lab)
+
 Collaborators: Aarhus University,  Finnish Institute of Health and Welfare, Icahn School of Medicine at Mount Sinai, Karolinska Institute, London School of Hygiene and Tropical Medicine, Norwegian Institute of Public Health (Folkehelseinstituttet), Queen's University, Stanford University, University of California Los Angeles, University of Haifa, University of San Francisco, University of Sydney, University of Turku
 Countries involved: Australia, Canada, Denmark, Israel, Norway, Sweden, United Kingdom, United States
 
-Project lead: [Prof Gavin Pereira](https://gavinfpereira.github.io/pereira lab)
 
 **Publication(s)**
 * Gebremedhin, A. T., A. K. Regan, S. Ball, A. P. Betrán, D. Foo, M. Gissler, S. E. Håberg, E. Malacova, M. L. Marinovich, and **G. Pereira. 2021**. "Interpregnancy interval and hypertensive disorders of pregnancy: A population-based cohort study." Paediatric and Perinatal Epidemiology 35 (4): 404-414
