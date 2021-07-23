@@ -1,0 +1,14 @@
+---
+layout: page
+title: "Influenza and pertussis vaccine effectiveness and safety in pregnancy"
+---
+
+Immunisation has significantly improved the global control of communicable diseases, preventing millions of deaths annually, and constitutes the single largest public health expenditure in Australia. Although inactivated influenza vaccination (IIV) in pregnancy has been a long standing policy recommendation in Australia, deaths among pregnant women during the 2009 H1N1 influenza pandemic highlighted the disease risk. First recommended in 1960, the World Health Organization (WHO) now stresses vaccination of pregnant women as the highest priority for funded influenza vaccine programs worldwide. Following the success of maternal vaccination to prevent pertussis in early infancy in the United Kingdom (UK),6 diphtheria-tetanus acelluar pertussis (dTpa) became only the second vaccine routinely recommended in pregnancy in Australia in April 2015. Now, an antenatal Respiratory Syncytial Virus vaccine is on the horizon (in late stage clinical trials) as the next vaccine candidate for routine use in pregnancy. Despite the importance to health and significant cost, Australia currently lacks a coordinated approach to maternal vaccination. Federal and State funding of programs and program delivery are disparate and uptake of routinely recommended vaccines in pregnancy is low (34%) and is not systematically monitored. Public health research is critically needed to identify factors which influence the uptake, safety, and effectiveness of vaccination during pregnancy, both in Australia and internationally. We will establish the largest and most comprehensive cohort worldwide to evaluate the population impact of both IIV and dTpa vaccines given during pregnancy.
+
+Project Lead: [Dr Annette Regan](https://gavinfpereira.github.io/pereira lab)
+
+Collaborators: 
+
+**References**
+* [Sarna, M., Andrews, R., Moore, H., Binks, M.J., McHugh, L., **Pereira, G.**, Blyth, C.C., Van Buynder, P., Lust, K., Effler, P. and Lambert, S.B., 2019. ‘Links2HealthierBubs’ cohort study: protocol for a record linkage study on the safety, uptake and effectiveness of influenza and pertussis vaccines among pregnant Australian women. BMJ open, 9(6), p.e030277](http://dx.doi.org/10.1136/bmjopen-2019-030277)
+* Foo, D.Y., Sarna, M., **Pereira, G.**, Moore, H.C., Fell, D.B. and Regan, A.K., 2020. Early childhood health outcomes following in utero exposure to influenza vaccines: a systematic review. Pediatrics, 146(2)
