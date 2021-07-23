@@ -16,7 +16,7 @@ title: ""
 <a href="https://gavinfpereira.github.io/breast cancer"><img src="/assets/breast cancer.png" width="250" alt="Detecting breast cancer with artificial intelligence"></a>
 
 **Influenza and pertussis vaccine effectiveness and safety in pregnancy**  
-<a href="https://gavinfpereira.github.io/vaccination"><img src="/assets/vaccination.png" width="250" alt="Vaccination in pregnancy"></a>
+<a href="https://gavinfpereira.github.io/vaccination"><img src="/assets/vaccination.png" width="200" alt="Vaccination in pregnancy"></a>
 
 **Environmental health - air pollution, temperature, climate change and the built environment**
 Coming soon
