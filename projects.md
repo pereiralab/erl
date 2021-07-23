@@ -10,7 +10,7 @@ title: ""
 <a href="https://gavinfpereira.github.io/ipi"><img src="/assets/ipi.png" width="250" alt="Interpregnancy intervals and family planning"></a>
 
 **Discovery and application of the maternal biological clock**  
-<a href="https://gavinfpereira.github.io/biological clock"><img src="/assets/biological clock.png" width="250" alt="Maternal biological clock"></a>
+<a href="https://gavinfpereira.github.io/biological clock"><img src="/assets/biological clock.png" width="200" alt="Maternal biological clock"></a>
 
 **Detecting breast cancer with artificial intelligence**  
 <a href="https://gavinfpereira.github.io/breast cancer"><img src="/assets/breast cancer.png" width="250" alt="Detecting breast cancer with artificial intelligence"></a>
