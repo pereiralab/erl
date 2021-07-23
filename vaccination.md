@@ -7,7 +7,7 @@ Immunisation has significantly improved the global control of communicable disea
 
 Project Lead: [Dr Annette Regan](https://gavinfpereira.github.io/pereira lab)
 
-Collaborators: 
+Collaborators: Charles Darwin University, Communicable Disease Control Directorate - Department of Health Government of Western AustraliaGriffith University, Emory University, National Centre for Immunisation Research and Surveillance, Perth Children's Hospital, Royal Brisbane Women's Hospital, Telethon Kids Institute, University of Queensland 
 
 **References**
 * [Sarna, M., Andrews, R., Moore, H., Binks, M.J., McHugh, L., **Pereira, G.**, Blyth, C.C., Van Buynder, P., Lust, K., Effler, P. and Lambert, S.B., 2019. ‘Links2HealthierBubs’ cohort study: protocol for a record linkage study on the safety, uptake and effectiveness of influenza and pertussis vaccines among pregnant Australian women. BMJ open, 9(6), p.e030277](http://dx.doi.org/10.1136/bmjopen-2019-030277)
