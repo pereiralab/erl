@@ -31,12 +31,13 @@ title: "Pereira Lab"
 
 # Alumni
 
-| Alumnus | Previous Role| Current Position |
+| Alumnus | Previous Role| Topic in Previous Role | Current Position |
 | --------------- | --------------- | --------------- |
-| Dr Mil Jacobs | Research Fellow | Data Analytics Specialist, Curtin University|
-| Dr Eva Malacova | Research Fellow | Senior Biostatistician, Queensland Institute for Medical Research|
-| Dr Jing Guo | PhD Candidate - passed 2020 |  |
-| Dr Yousef Zahrani	| PhD Candidate - passed 2019 | Assistant Prof, King Khalid Uni Saudi Arabia |
+| Dr Mil Jacobs | Research Fellow 2015-2016 | Biostatistics and land-use regression | Data Analytics Specialist, Curtin University |
+| Dr Eva Malacova | Research Fellow 2016-2018 | Perinatal epidemiology and data curation | Senior Biostatistician, Queensland Institute for Medical Research |
+| Dr Jing Guo | PhD Candidate - passed 2020 | The role of human microbiome in explaining asthma and allergy differences between Eastern and Western environments |  |
+| Dr Maryam Mozooni| PhD Candidate - passed 2020 | Effects of migration, ethnicity and acculturation on perinatal endpoints | Adjunct Lecturer, University of Western Australia |
+| Dr Yousef Zahrani	| PhD Candidate - passed 2019 | Culture of Patient Safety in Saudi Arabia | Assistant Prof, King Khalid Uni Saudi Arabia |
 
 # Funders of the lab
 
