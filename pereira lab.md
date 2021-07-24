@@ -3,9 +3,9 @@ type: page
 title: "Pereira Lab"
 ---
 
-|  |  |  |
+| Name | Current Role | Topic |
 | --------------- | --------------- | --------------- |
-| **Prof Gavin Pereira** | **Program Lead** | ... |
+| Prof Gavin Pereira | Program Lead | ... |
 | Dr Gizachew Tessema | Project Lead | Reproductive health|
 | Dr Annette Regan | Project Lead  | Infectious disease and vaccination|
 | Dr Luke Marinovich | Project Lead  | Health service technology |
@@ -20,10 +20,14 @@ title: "Pereira Lab"
 | Dr Kingsley Wong | PhD Candidate  | Prediction of perintal mortality and morbidity with machine learning |
 | Dr Ravisha Srinivasjois | PhD Candidate | Probiotics to reduce morbidity among preterm infants |
 
-| Co-supervised students | |  |
+# Co-supervision
+| Name | Current Role | Topic |
 | --------------- | --------------- | --------------- |
 | Bereket Adema | PhD Candidate  | Prenatal substance use, offspring addiction and mental health |
 | Scott Sims| PhD Candidate  | Alcohol-related harm in children and young adults |
+| Barbara Zileni | PhD Candidate | Continuity of antenatal care in Malawi |
+
+# Alumni
 
 | Alumnus | Previous Role| Current Position |
 | --------------- | --------------- | --------------- |
@@ -31,6 +35,24 @@ title: "Pereira Lab"
 | Dr Eva Malacova | Research Fellow | Senior Biostatistician, Queensland Institute for Medical Research|
 | Dr Jing Guo | PhD Candidate - passed 2020 |  |
 | Dr Yousef Zahrani	| PhD Candidate - passed 2019 | Assistant Prof, King Khalid Uni Saudi Arabia |
-	
+
+# Funders of the lab
+
+GP is supported with funding from the National Health and Medical Research Council Project and Investigator Grants #1099655 and #1173991, institutional funding for the WA Health and Artificial Intelligence Consortium, and the Research Council of Norway through its Centres of Excellence funding scheme #262700. 
+GAT is supported with funding from the National Health and Medical Research Council Investigator Grant #1195716.
+AKR and MS are supported with funding from the National Health and Medical Research Council, project grant #1141510.
+MLM is supported with funding from the the National Breast Cancer Froundation and the WA Health Translation Network.
+LK is supported with funding from an Australia Award, Commonwealth of Australia
+DF is supported with funding from the Wesfarmers Centre of Vaccines & Infectious Diseases at the Telethon Kids Institute
+GD is supported with funding from Australian Research Council Centre of Excellence 
+BA is supported with funding from the Raine Medical Research Foundation
+RS is supported by Ramsay Health as Head of Neonatology. 
+All other students are supported by full scholarships from the Commonwealth of Australia Research Training Program. 
+
+# Affiliations
+Gavin Pereira <sup>1,2,3</sup>
+1 Curtin School of Population Health, Curtin University, WA, Australia
+2 enAble Institute, Curtin University, WA, Australia
+3 Centre for Fertility and Health (CeFH), Norwegian Institute of Public Health, Oslo, Norway
 
 See the dedicated lab page for information on the team, including collaborators.
