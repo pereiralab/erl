@@ -19,7 +19,7 @@ title: ""
 <a href="https://gavinfpereira.github.io/vaccination"><img src="/assets/vaccination.png" width="200" alt="Vaccination in pregnancy"></a>
 
 **Environmental health - air pollution, temperature, climate change and the built environment**
-<a href="https://gavinfpereira.github.io/environment"><img src="/assets/environment.png" width="200" alt="Environmental health"></a>
+<a href="https://gavinfpereira.github.io/environment"><img src="/assets/environment.png" width="250" alt="Environmental health"></a>
 
 **Applications of simulation in perinatal epidemiology**
 
