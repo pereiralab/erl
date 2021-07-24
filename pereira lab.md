@@ -20,4 +20,4 @@ title: "Pereira Lab"
 | Bereket Adema | PhD Candidate  | Prenatal substance use, offspring addiction and mental health |
 | Scott Sims| PhD Candidate  | Alcohol-related harm in children and young adults |
 
-See the dedicated lab page for informatoin on the wider team, including collaborators.
+See the dedicated lab page for information on the team, including collaborators.
