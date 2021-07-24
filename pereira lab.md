@@ -27,6 +27,7 @@ title: "Pereira Lab"
 | Bereket Adema | PhD Candidate  | Prenatal substance use, offspring addiction and mental health |
 | Scott Sims| PhD Candidate  | Alcohol-related harm in children and young adults |
 | Barbara Zileni | PhD Candidate | Continuity of antenatal care in Malawi |
+| Wei Shan (Cassandra) Chong | PhD Candidate | Allergens, phenolic composition, and anti-microbial properties of Australian wattle seed species |
 
 # Alumni
 
