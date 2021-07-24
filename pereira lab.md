@@ -15,7 +15,7 @@ title: "Pereira Lab"
 | Gursi Dhamrait | PhD Candidate  | Interpregnancy intervals and child development |
 | Sylvester Nyadanu | PhD Candidate  | Air pollution, temperature extremes and health |
 | Kalayu Mruts | PhD Candidate  | Family planning in Ethiopia |
-| Lydia Kaforau | PhD Candidate - Australia Awardee  | Perinatal mortality and morbidity in the Pacific Islands |
+| Lydia Kaforau | PhD Candidate  | Perinatal mortality and morbidity in the Pacific Islands |
 | Jennifer Dunne | PhD Candidate  | Application of simulation in perinatal epidemiology |
 | Dr Kingsley Wong | PhD Candidate  | Prediction of perintal mortality and morbidity with machine learning |
 | Dr Ravisha Srinivasjois | PhD Candidate | Probiotics to reduce morbidity among preterm infants |
@@ -32,7 +32,7 @@ title: "Pereira Lab"
 # Alumni
 
 | Alumnus | Previous Role| Topic in Previous Role | Current Position |
-| --------------- | --------------- | --------------- |
+| --------------- | --------------- | --------------- | --------------- |
 | Dr Mil Jacobs | Research Fellow 2015-2016 | Biostatistics and land-use regression | Data Analytics Specialist, Curtin University |
 | Dr Eva Malacova | Research Fellow 2016-2018 | Perinatal epidemiology and data curation | Senior Biostatistician, Queensland Institute for Medical Research |
 | Dr Jing Guo | PhD Candidate - passed 2020 | The role of human microbiome in explaining asthma and allergy differences between Eastern and Western environments |  |
