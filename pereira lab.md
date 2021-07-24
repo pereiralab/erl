@@ -16,7 +16,7 @@ title: "Pereira Lab"
 | Kalayu Mruts | PhD Candidate  | Family planning in Ethiopia |
 | Lydia Kaforau | PhD Candidate - Australia Awardee  | Perinatal mortality and morbidity in the Pacific Islands |
 | Jennifer Dunne | PhD Candidate  | Application of simulation in perinatal epidemiology |
-| Kingsley Wong | PhD Candidate  | Prediction of perintal mortality and morbidity with machine learning |
+| Dr Kingsley Wong | PhD Candidate  | Prediction of perintal mortality and morbidity with machine learning |
 | Bereket Adema | PhD Candidate  | Prenatal substance use, offspring addiction and mental health |
 | Scott Sims| PhD Candidate  | Alcohol-related harm in children and young adults |
 
