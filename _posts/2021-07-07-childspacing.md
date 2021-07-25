@@ -1,5 +1,5 @@
 ---
-title:  "Closely spaced pregnancies - Are they really so bad in high income countries?"
+title:  "Closely spaced pregnancies"
 layout: post
 categories: media
 ---
