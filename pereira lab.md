@@ -31,7 +31,7 @@ title: "Pereira Lab"
 
 # Alumni
 
-| Alumnus | Previous Role| Topic in Previous Role | Current Position |
+| Alumnus | Previous Role| Topic in Previous Role | Subsequent Position |
 | --------------- | --------------- | --------------- | --------------- |
 | Dr Mil Jacobs | Research Fellow 2015-2016 | Biostatistics and land-use regression | Data Analytics Specialist, Curtin University |
 | Dr Eva Malacova | Research Fellow 2016-2018 | Perinatal epidemiology and data curation | Senior Biostatistician, Queensland Institute for Medical Research |
@@ -41,7 +41,7 @@ title: "Pereira Lab"
 
 # Funders of the lab
 
-* GP is supported with funding from the National Health and Medical Research Council Project and Investigator Grants #1099655 and #1173991, institutional funding for the WA Health and Artificial Intelligence Consortium, and the Research Council of Norway through its Centres of Excellence funding scheme #262700. 
+* GP is supported with funding from the National Health and Medical Research Council Project and Investigator Grants #1099655 and #1173991, institutional funding for the WA Health and Artificial Intelligence Consortium, the Health Effects Institute USA, and the Research Council of Norway through its Centres of Excellence funding scheme #262700. 
 * GAT is supported with funding from the National Health and Medical Research Council Investigator Grant #1195716.
 * AKR and MS are supported with funding from the National Health and Medical Research Council, project grant #1141510.
 * MLM is supported with funding from the the National Breast Cancer Froundation and the WA Health Translation Network.
