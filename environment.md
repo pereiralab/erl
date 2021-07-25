@@ -7,6 +7,8 @@ Globally, fine particulate matter air pollution with an aerodynamic diameter <2.
 
 <img src="/assets/bushfire smoke.png" width="1200" alt="Selected major bushfire smoke events">
 
+<sub>Environmental Research. 2015 136: 120-132.</sub>
+
 It is now generally well-accepted that air pollution affects the cardiovascular and respiratory systems, particularly among the elderly. We are conducting research to investigate effects of air pollution in Australia on understudied populations (children and pregnant women). We also conduct studies to investigate the effects of air pollution in understudied regions such as Ghana, studies that quantitatively summarise the effects of air pollution in high-exposure regions such as China, and studies that can better ascertain dose-response relationships through the use of high quality exposure data in the US and high quality health data in the Nordic countries. We also use satellite imagery to develop models for air pollution and investigate effects of residential greenness and other spatially derived exposures, and serve as editors to initiate special issues on energy transitions and health.
 
 Project lead: [Gavin Pereira](https://gavinfpereira.github.io/pereira lab)
@@ -29,5 +31,5 @@ Jacobs, M., G. Zhang, S. Chen, B. Mullins, M. Bell, L. Jin, Y. Guo, R. Huxley, a
 * **Pereira, G.**, N. Nassar, C. Bower, P. Weinstein, and A. Cook. 2010. "Residential exposure to traffic emissions and adverse pregnancy outcomes." SAPIENS 3 (1)
 * **Pereira, G.**, A. J. B. M. De Vos, A. Cook, and C. D'Arcy. 2010. "Vector fields of risk: A new approach to the geographical representation of childhood asthma." Health and Place 16 (1): 140-146.
 * **Pereira, G.**, and C. D. A. J. Holman.. "A case-crossover analysis of traffic-related air pollution and emergency department presentations for asthma in Perth, Western Australia." Medical Journal of Australia 193 (9).
-* **Pereira, G.**, N. Nassar, C. Bower, and A. G. Cook.. "Residential exposure to traffic emissions and adverse pregnancy outcomes." Surveys and Perspectives Integrating Society and Environment 3 (2). Inpress.
+* **Pereira, G.**, N. Nassar, C. Bower, and A. G. Cook.. "Residential exposure to traffic emissions and adverse pregnancy outcomes." Surveys and Perspectives Integrating Society and Environment 3 (2). 
 * **Pereira, G.**, A. J. B. M. De Vos, and A. Cook. 2009. "Residential traffic exposure and children's emergency department presentation for asthma: A spatial study." International Journal of Health Geographics 8
