@@ -1,5 +1,5 @@
 ---
-title:  "Closely spaced pregnancies"
+title: "Closely spaced pregnancies"
 layout: post
 categories: media
 ---
