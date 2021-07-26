@@ -8,7 +8,7 @@ title: "Pereira Lab"
 | Prof Gavin Pereira | Program Lead | ... |
 | Dr Gizachew Tessema | Project Lead | Reproductive health|
 | Dr Annette Regan | Project Lead  | Infectious disease and vaccination|
-| Dr Luke Marinovich | Project Lead  | Health service technology |
+| Dr Michael (Luke) Marinovich | Project Lead  | Health service technology |
 | Dr Minda Sarna| Research Fellow  | Infectious disease and vaccination |
 | Amanuel Gebremedhin | PhD Candidate  | Interpregnancy intervals and pregnancy complications |
 | Damien Foo | PhD Candidate  | Vaccination and child health |
@@ -44,7 +44,7 @@ title: "Pereira Lab"
 * GP is supported with funding from the National Health and Medical Research Council Project and Investigator Grants #1099655 and #1173991, institutional funding for the WA Health and Artificial Intelligence Consortium, the Health Effects Institute USA, and the Research Council of Norway through its Centres of Excellence funding scheme #262700. 
 * GAT is supported with funding from the National Health and Medical Research Council Investigator Grant #1195716.
 * AKR and MS are supported with funding from the National Health and Medical Research Council, project grant #1141510.
-* MLM is supported with funding from the the National Breast Cancer Froundation and the WA Health Translation Network.
+* MLM is supported with funding from the the National Breast Cancer Foundation and the WA Health Translation Network.
 * LK is supported with funding from an Australia Award, Commonwealth of Australia
 * DF is supported with funding from the Wesfarmers Centre of Vaccines & Infectious Diseases at the Telethon Kids Institute
 * GD is supported with funding from Australian Research Council Centre of Excellence 
