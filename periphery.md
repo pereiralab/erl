@@ -4,8 +4,6 @@ title: "Periphery"
 ---
 # Journal article peer-reviews
 My peer-review contributions and citation metrics can be found on [my Publons site](https://publons.com/researcher/1287244/gavin-pereira/)
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MR46JL5"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> 
  
 # Service
 Selected major service 
