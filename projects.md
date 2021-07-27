@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Projects"
 ---
 
 **Prediction of stillbirth and perinatal morbidity with machine learning**  
