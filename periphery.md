@@ -64,6 +64,7 @@ The following figure shows change in global early childhood mortality as a funct
 The following figure shows the extent to which associations between interpregnancy intervals (IPI) and autistic spectrum disorder changes after control for socioeconomic, psychiatric and latent (unobserved) confounders. This discovery demonstrates that effects of short IPI have been overstated and the relative importance of the effects of long IPI (possibly via biological aging). <br/>
 
  
+ 
 <img src="https://gavinfpereira.github.io/assets/ipi and asd.gif" width="600" height=600" /> 
 
 </details>
