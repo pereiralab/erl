@@ -9,8 +9,11 @@ title: ""
  <summary> Journal article peer reviews, grant assessment panels, scientific committees, and expert witness contributions </summary>
  
  ### Journal article peer reviews
+ 
  Peer-review contributions and citation metrics can be found on [my Publons site](https://publons.com/researcher/1287244/gavin-pereira/)
+ 
  ### Professional service 
+ 
 | Role | Organisation | Year(s) |
 | ---- | ---- | ---- |
 | Clinical fellowship practitioner reviewer | Health Council of New Zealand |		2021 |
@@ -38,8 +41,7 @@ title: ""
 # Teaching
 
 <details>
- 
- <summary> Teaching contributions since 2017 </summary>
+  <summary> Teaching contributions since 2017 </summary>
 
 | Year | Role | Unit | Semester | Course | Institution | Coordination | Students |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
