@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Periphery"
 ---
 # Journal article peer-reviews
