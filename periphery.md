@@ -3,14 +3,13 @@ layout: page
 title: "Periphery"
 ---
 
-# Journal article peer reviews
-
-My peer-review contributions and citation metrics can be found on [my Publons site](https://publons.com/researcher/1287244/gavin-pereira/)
- 
 # Service
-
-Selected major service 
-
+<details><summary> Journal article peer reviews, grant assessment panels, scientific committees, and expert witness contributions </summary>
+ 
+### Journal article peer reviews
+Peer-review contributions and citation metrics can be found on [my Publons site](https://publons.com/researcher/1287244/gavin-pereira/)
+ 
+### Professional service 
 | Role | Organisation | Year(s) |
 | ---- | ---- | ---- |
 | Clinical fellowship practitioner reviewer | Health Council of New Zealand |		2021
@@ -33,11 +32,10 @@ Selected major service
 | Session chairperson (environ. exposure & pregnancy) | Int. Soc. for Environ. Epidemiol. international conference |	2017
 | Director/Assoc director of research and training | School of Public Health, Curtin University |		2016 – 2017
 | Panel member | National Health & Medical Research Council Postgraduate Scholarship Panel |		2016
+</details>
 
 # Teaching
-
-Selected major contributions to teaching
-
+<details><summary> Teaching contributions since 2017 </summary>
 | Year | Role | Unit | Semester | Course | Institution | Coordination | Students |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 2019 |	Unit coordinator | Epidemiology & Evidence (STAT6000/01) | S2 | Master Public Health | Curtin University | 3 staff  | 87  |
@@ -50,13 +48,14 @@ Selected major contributions to teaching
 | 2019 |	Lecturer | Epidemiology & Biostatistics Practice (MEDS4003) | S1 | Honours | Curtin University | NA |  11  |
 | 2018 |	Lecturer | Epidemiology & Biostatistics Practice (MEDS4003) | S1 | Honours | Curtin University | NA |  14  |
 | 2017 |	Lecturer | Epidemiology & Biostatistics Practice (MEDS4003) | S1 | Honours | Curtin University | NA |  12  |
-
-# More
-
-
+</details>
+ 
+# Visualisations
+<details><summary> Interesting data and research findings presented as dynamic visualisations </summary>
 <p align="center">
 <img src="https://gavinfpereira.github.io/assets/childmortality.gif" width="400" height="400" /> 
 </p>
 <p align="center">
 <sub><sup>Animation: G.Pereira<br>Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population </sup></sub>
 </p>
+</details>
