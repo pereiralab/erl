@@ -2,11 +2,15 @@
 layout: page
 title: "Periphery"
 ---
-# Journal article peer-reviews
+
+# Journal article peer reviews
+
 My peer-review contributions and citation metrics can be found on [my Publons site](https://publons.com/researcher/1287244/gavin-pereira/)
  
 # Service
+
 Selected major service 
+
 | Role | Organisation | Year(s) |
 | ---- | ---- | ---- |
 | Clinical fellowship practitioner reviewer | Health Council of New Zealand |		2021
@@ -31,7 +35,9 @@ Selected major service
 | Panel member | National Health & Medical Research Council Postgraduate Scholarship Panel |		2016
 
 # Teaching
+
 Selected major contributions to teaching
+
 | Year | Role | Unit | Semester | Course | Institution | Coordination | Students |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 2019 |	Unit coordinator | Epidemiology & Evidence (STAT6000/01) | S2 | Master Public Health | Curtin University | 3 staff  | 87  |
