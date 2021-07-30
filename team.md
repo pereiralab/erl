@@ -1,6 +1,6 @@
 ---
 type: page
-title: "People"
+title: "Team"
 ---
 
 | Name | Current Role | Topic |
