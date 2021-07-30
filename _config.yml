@@ -1,6 +1,6 @@
-title: "Gavin Pereira"
+title: "Epidemiology Research Lab"
 author: "Gavin Pereira"
-description: "Gavin Pereira. Professor. PhD W.Aust., MAppStats ANU, BCM (Hons) W.Aust., GCRC QUT"
+description: "Epidemiology Research Lab"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,13 +17,13 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "projects.md", title: "Projects"}
-  - {file: "papers.md", title: "Pubs"}
-  - {file: "periphery.md", title: "Periphery"}
-  - {file: "pereira lab.md", title: "Pereira Lab"}
+  - {file: "papers.md", title: "Publications"}
+  - {file: "people.md", title: "People"}
+  - {file: "opportunities.md", title: "Opportunities}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto: ai@curtin.edu.au"}
-  - {title: Github, icon: github, url: "https://github.com/gavinfpereira"}
+  - {title: Github, icon: github, url: "https://github.com/pereiralab"}
   - {title: LinkedIn, icon: linkedin, url: "https://au.linkedin.com/in/gavin-pereira-b3b6631b?trk=people-guest_people_search-card"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/GavinFPereira"} 
 
