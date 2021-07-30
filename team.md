@@ -10,7 +10,7 @@ title: "Team"
 | **Dr Annette Regan** <br/> <a href="https://research.curtin.edu.au/researcher/annette-regan-a3602cf2/"><img src="https://cdn.theconversation.com/avatars/210075/width238/image-20170419-2426-786xpo.jpg" width="200" alt="Annette Regan"></a> | Project Lead  | Infectious disease and vaccination|
 | [Dr Michael (Luke) Marinovich](https://research.curtin.edu.au/researcher/luke-marinovich-e13bed6c/) | Project Lead  | Health service technology |
 | [Dr Minda Sarna](https://research.curtin.edu.au/researcher/minda-sarna-274063e4/)| Research Fellow  | Infectious disease and vaccination |
-| Amanuel Gebremedhin | PhD Candidate  | Interpregnancy intervals and pregnancy complications |
+| **Amanuel Gebremedhin** <br/> <a href="https://scholar.google.com/citations?user=JGs1vkYAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=JGs1vkYAAAAJ&citpid=11" width="200" alt="Amanuel Gebremedhin"></a> | PhD Candidate  | Interpregnancy intervals and pregnancy complications |
 | Damien Foo | PhD Candidate  | Vaccination and child health |
 | Gursi Dhamrait | PhD Candidate  | Interpregnancy intervals and child development |
 | Sylvester Nyadanu | PhD Candidate  | Air pollution, temperature extremes and health |
