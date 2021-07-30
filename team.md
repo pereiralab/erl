@@ -5,11 +5,11 @@ title: "Team"
 
 | Name | Current Role | Topic |
 | --------------- | --------------- | --------------- |
-| Prof Gavin Pereira | Program Lead | ... |
-| Dr Gizachew Tessema | Project Lead | Reproductive health|
-| Dr Annette Regan | Project Lead  | Infectious disease and vaccination|
-| Dr Michael (Luke) Marinovich | Project Lead  | Health service technology |
-| Dr Minda Sarna| Research Fellow  | Infectious disease and vaccination |
+| [Prof Gavin Pereira](https://research.curtin.edu.au/researcher/gavin-pereira-0374b4b1/) | Program Lead | ... |
+| [Dr Gizachew Tessema](https://research.curtin.edu.au/researcher/gizachew-tessema-f47032fa/) | Project Lead | Reproductive health|
+| [Dr Annette Regan](https://research.curtin.edu.au/researcher/annette-regan-a3602cf2/) | Project Lead  | Infectious disease and vaccination|
+| [Dr Michael (Luke) Marinovich](https://research.curtin.edu.au/researcher/luke-marinovich-e13bed6c/) | Project Lead  | Health service technology |
+| [Dr Minda Sarna](https://research.curtin.edu.au/researcher/minda-sarna-274063e4/)| Research Fellow  | Infectious disease and vaccination |
 | Amanuel Gebremedhin | PhD Candidate  | Interpregnancy intervals and pregnancy complications |
 | Damien Foo | PhD Candidate  | Vaccination and child health |
 | Gursi Dhamrait | PhD Candidate  | Interpregnancy intervals and child development |
