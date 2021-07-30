@@ -17,7 +17,7 @@ title: "Team"
 | Kalayu Mruts | PhD Candidate  | Family planning in Ethiopia |
 | Lydia Kaforau | PhD Candidate  | Perinatal mortality and morbidity in the Pacific Islands |
 | Jennifer Dunne | PhD Candidate  | Application of simulation in perinatal epidemiology |
-| Dr Kingsley Wong | PhD Candidate  | Prediction of perintal mortality and morbidity with machine learning |
+| **Dr Kingsley Wong** <br/> <a href="https://scholar.google.com/citations?user=ER0sUxwAAAAJ&hl=en&oi=ao"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ER0sUxwAAAAJ&citpid=1" width="200" alt="Kingsley Wong"></a> | PhD Candidate  | Prediction of perintal mortality and morbidity with machine learning |
 | Dr Ravisha Srinivasjois | PhD Candidate | Probiotics to reduce morbidity among preterm infants |
 | Bereket Adema * | PhD Candidate  | Prenatal substance use, offspring addiction and mental health |
 | Scott Sims * | PhD Candidate  | Alcohol-related harm in children and young adults |
