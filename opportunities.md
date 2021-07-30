@@ -3,9 +3,9 @@ layout: page
 title: "Opportunities"
 ---
 
-# PhD scholarship opportunities
+# PhD scholarships
 
-## Open
+**Open**  
 Closing date 13 August 2021  
 [Pediatric health impacts of in utero exposure to maternal respiratory infection](https://scholarships.curtin.edu.au/Scholarship/?id=5503)  
 [Observing the unobserved: the causes and consequences of fertility decisions](https://scholarships.curtin.edu.au/Scholarship/?id=5288)  
