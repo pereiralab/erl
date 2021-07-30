@@ -5,7 +5,8 @@ title: "Opportunities"
 
 # Honours Opportunities
 
-If you have an undergraduate degree in a public health, health science or a related field you can apply to undertake Public Health honours, which takes one year and provides a pathway to PhD research. 
+If you have an undergraduate degree in a public health, health science or a related field you can apply to undertake Public Health honours, which takes one year and provides a pathway to PhD research. Find out more and apply [here](
+https://study.curtin.edu.au/offering/course-ug-public-health-honours-major-bsc-health-hons--mjrh-phlth)
 
 # PhD Opportunities
 
