@@ -14,7 +14,7 @@ Epigenetic clocks are developed with observational data. Human samples of blood,
 
 Although functional decline from aging is inevitable, lifestyle and environmental factors can either accelerate or decelerate biological aging. Until recently, when the first biological clock was developed, the ability to discern biological from chronological aging was not possible. There are now many biological clocks but none have been developed for pregnancy. 
 
-Project lead: [Gavin Pereira](https://gavinfpereira.github.io/pereira lab)
+Project lead: [Gavin Pereira](https://gavinfpereira.github.io/)
 
 Collaborators: Centre for Fertility and Health, Norwegian Institute of Public Health (Folkehelseinstituttet)
 
