@@ -6,7 +6,7 @@ layout: page
 
 ## About this repository
 
-This is a repository for my personal website.
+This is a repository for my lab.
 
 ## Credit
 
