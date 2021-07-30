@@ -5,7 +5,7 @@ title: "Team"
 
 | Name | Current Role | Topic |
 | --------------- | --------------- | --------------- |
-| [Prof Gavin Pereira](https://research.curtin.edu.au/researcher/gavin-pereira-0374b4b1/) | Program Lead | ... |
+| **Prof Gavin Pereira** <br/> <a href="https://research.curtin.edu.au/researcher/gavin-pereira-0374b4b1/g"><img src=https://s3-ap-southeast-2.amazonaws.com/curtin-staff-profile-images-prd/gavin-pereira-0374b4b1.jpg" width="200" alt="GP"></a> | Program Lead | ... |
 | [Dr Gizachew Tessema](https://research.curtin.edu.au/researcher/gizachew-tessema-f47032fa/) | Project Lead | Reproductive health|
 | [Dr Annette Regan](https://research.curtin.edu.au/researcher/annette-regan-a3602cf2/) | Project Lead  | Infectious disease and vaccination|
 | [Dr Michael (Luke) Marinovich](https://research.curtin.edu.au/researcher/luke-marinovich-e13bed6c/) | Project Lead  | Health service technology |
