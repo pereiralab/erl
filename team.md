@@ -3,7 +3,7 @@ type: page
 title: "Team"
 ---
 
-| Name | Current Role | Topic |
+| Name | Role | Topic |
 | --------------- | --------------- | --------------- |
 | **Prof Gavin Pereira** <br/> <a href="https://research.curtin.edu.au/researcher/gavin-pereira-0374b4b1/"><img src="https://s3-ap-southeast-2.amazonaws.com/curtin-staff-profile-images-prd/gavin-pereira-0374b4b1.jpg" width="200" alt="Gavin Pereira"></a> | Head of Lab | ... |
 | **Dr Gizachew Tessema** <br/> <a href="https://research.curtin.edu.au/researcher/gizachew-tessema-f47032fa/"><img src="https://s3-ap-southeast-2.amazonaws.com/curtin-staff-profile-images-prd/gizachew-tessema-f47032fa.jpg" width="200" alt="Gizachew Tessema"></a> | Project Lead | Reproductive health|
