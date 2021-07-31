@@ -3,7 +3,7 @@ layout: page
 title: "Collaborators"
 ---
 
-<img src="/assets/collaboration stats.jpg" width="600" alt="Collaboration statistics">  
+<img src="/assets/collaboration stats.JPG" width="680" alt="Collaboration statistics">  
 
 ### Collaborating institutions
 Number of our research articles cited in the Web of Science with collaborating institutions.  
