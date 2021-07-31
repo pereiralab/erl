@@ -11,4 +11,4 @@ The World Health Organization and obstetric societies worldwide advise against c
 
 
 **References**
-* Gebremedhin, A. T., A. K. Regan, S. Ball, A. P. Betrán, D. Foo, M. Gissler, S. E. Håberg, E. Malacova, M. L. Marinovich, and **G. Pereira**. 2019. "Effect of interpregnancy interval on gestational diabetes: a retrospective matched cohort study." Annals of Epidemiology 39: 33-38.e3.
+* Gebremedhin, A. T., A. K. Regan, S. Ball, A. P. Betrán, D. Foo, M. Gissler, S. E. Håberg, E. Malacova, M. L. Marinovich, and G. Pereira. 2019. "Effect of interpregnancy interval on gestational diabetes: a retrospective matched cohort study." Annals of Epidemiology 39: 33-38.e3.
