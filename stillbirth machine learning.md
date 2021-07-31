@@ -16,5 +16,5 @@ Project lead: [Prof Gavin Pereira](https://gavinfpereira.github.io/pereira lab)
 Collaborators: Curtin Institute for Computation, Joondalup Health Campus, King Edward Memorial Hospital, Ramsay Healthcare, Royal Women's Hospital, Telethon Kids Institute, University of Sydney 
 
 **Publication(s)**
-* [Malacova, E., S. Tippaya, H. D. Bailey, K. Chai, B. M. Farrant, A. T. Gebremedhin, H. Leonard, M. L. Marinovich, N. Nassar, A. Phatak,  C. Raynes-Greenow, A.K. Regan, A.Shand, C.J. Shepherd, R. Srinivasjois, G.A. Tessema and **G. Pereira**. 2020. "Stillbirth risk prediction using machine learning for a large cohort of births from Western Australia, 1980–2015." Scientific Reports 10 (1): 5354-5354.](https://www.nature.com/articles/s41598-020-62210-9)
+* [Malacova, E., S. Tippaya, H. D. Bailey, K. Chai, B. M. Farrant, A. T. Gebremedhin, H. Leonard, M. L. Marinovich, N. Nassar, A. Phatak,  C. Raynes-Greenow, A.K. Regan, A.Shand, C.J. Shepherd, R. Srinivasjois, G.A. Tessema and G. Pereira. 2020. "Stillbirth risk prediction using machine learning for a large cohort of births from Western Australia, 1980–2015." Scientific Reports 10 (1): 5354-5354.](https://www.nature.com/articles/s41598-020-62210-9)
 
