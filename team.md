@@ -5,13 +5,13 @@ title: "Team"
 
 | Name | Role | Topic |
 | --------------- | --------------- | --------------- |
-| **Prof Gavin Pereira** <br/> <a href="https://research.curtin.edu.au/researcher/gavin-pereira-0374b4b1/"><img src="https://s3-ap-southeast-2.amazonaws.com/curtin-staff-profile-images-prd/gavin-pereira-0374b4b1.jpg" width="300" alt="Gavin Pereira"></a> | Head of Lab | ... |
+| **Prof Gavin Pereira** <br/> <a href="https://research.curtin.edu.au/researcher/gavin-pereira-0374b4b1/"><img src="https://s3-ap-southeast-2.amazonaws.com/curtin-staff-profile-images-prd/gavin-pereira-0374b4b1.jpg" width="300" alt="Gavin Pereira"></a> | Head of Lab | Epidemiology. [Gavin's website](https://gavinfpereira.github.io/) |
 | **Dr Gizachew Tessema** <br/> <a href="https://research.curtin.edu.au/researcher/gizachew-tessema-f47032fa/"><img src="https://s3-ap-southeast-2.amazonaws.com/curtin-staff-profile-images-prd/gizachew-tessema-f47032fa.jpg" width="300" alt="Gizachew Tessema"></a> | Project Lead | Reproductive health|
 | **Dr Annette Regan** <br/> <a href="https://research.curtin.edu.au/researcher/annette-regan-a3602cf2/"><img src="https://cdn.theconversation.com/avatars/210075/width238/image-20170419-2426-786xpo.jpg" width="300" alt="Annette Regan"></a> | Project Lead  | Infectious disease and vaccination|
 | [Dr Michael (Luke) Marinovich](https://research.curtin.edu.au/researcher/luke-marinovich-e13bed6c/) | Project Lead  | Health service technology |
 | [Dr Minda Sarna](https://research.curtin.edu.au/researcher/minda-sarna-274063e4/)| Research Fellow  | Infectious disease and vaccination |
 | **Amanuel Gebremedhin** <br/> <a href="https://scholar.google.com/citations?user=JGs1vkYAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=JGs1vkYAAAAJ&citpid=11" width="300" alt="Amanuel Gebremedhin"></a> | PhD Candidate  | Interpregnancy intervals and pregnancy complications |
-| Damien Foo | PhD Candidate  | Vaccination and child health |
+| **Damien Foo** <br/> <a href="https://scholar.google.com/citations?user=CVVaUwQAAAAJ&hl=en&oi=ao"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=CVVaUwQAAAAJ&citpid=5" width="300" alt="Damien Foo"></a> | PhD Candidate  | Vaccination and child health |
 | Gursi Dhamrait | PhD Candidate  | Interpregnancy intervals and child development |
 | Sylvester Nyadanu | PhD Candidate  | Air pollution, temperature extremes and health |
 | Kalayu Mruts | PhD Candidate  | Family planning in Ethiopia |
