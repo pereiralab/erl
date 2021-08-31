@@ -21,10 +21,12 @@ Click on the photos to see academic profiles for staff and Google Scholar profil
 | **Jennifer Dunne** <br/> <a href="https://scholar.google.com/citations?hl=en&user=IoVlcPgAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=IoVlcPgAAAAJ&citpid=1" width="300" alt="Jennifer Dunne"></a> | PhD Candidate  | Application of simulation in perinatal epidemiology |
 | **Dr Kingsley Wong** <br/> <a href="https://scholar.google.com/citations?user=ER0sUxwAAAAJ&hl=en&oi=ao"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ER0sUxwAAAAJ&citpid=1" width="300" alt="Kingsley Wong"></a> | PhD Candidate  | Prediction of perintal mortality and morbidity with machine learning |
 | **Dr Ravisha Srinivasjois** <br/> <a href="https://www.ramsayhealth.com.au/Specialists/joondalup-private-hospital/neonatology/102258/dr-ravisha-srinivas-jois"><img src="https://ramsayprod.blob.core.windows.net/media/specialist/profilepictures/6851.jpg?v=637632657120765726" width="300" alt="Ravisha Srinivasjois"></a> | PhD Candidate, Neonatologist and Paediatrician | Probiotics to reduce morbidity among preterm infants |
+| **Getayeneh Tesema** | PhD Candidate  | Incidence and costs associated with of adverse perinatal outcomes in Australia |
 | **Bereket Adema** * <br/> <a href="https://scholar.google.com/citations?user=l47XlroAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=l47XlroAAAAJ&citpid=3" width="300" alt="Bereket Adema"></a>  | PhD Candidate  | Prenatal substance use, offspring addiction and mental health |
-| Scott Sims * | PhD Candidate  | Alcohol-related harm in children and young adults |
-| Barbara Zileni * | PhD Candidate | Continuity of antenatal care in Malawi |
-| Wei Shan (Cassandra) Chong * | PhD Candidate | Allergens, phenolic composition, and anti-microbial properties of Australian wattle seed species |
+| **Bir Doj Rai** *  | PhD Candidate  | Epidemiology of zoonotic diseases events and their spatio-temporal trends in Bhutan |
+| **Scott Sims** * | PhD Candidate  | Alcohol-related harm in children and young adults |
+| **Barbara Zileni** * | PhD Candidate | Continuity of antenatal care in Malawi |
+| **Wei Shan (Cassandra) Chong** * | PhD Candidate | Allergens, phenolic composition, and anti-microbial properties of Australian wattle seed species |
 
 \* Higher degree student research led by an academic external to the lab
 
