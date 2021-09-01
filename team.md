@@ -24,7 +24,7 @@ Click on the photos to see academic profiles for staff and Google Scholar profil
 | **Getayeneh Tesema** | PhD Candidate  | Incidence and costs associated with of adverse perinatal outcomes in Australia |
 | **Bereket Adema** * <br/> <a href="https://scholar.google.com/citations?user=l47XlroAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=l47XlroAAAAJ&citpid=3" width="300" alt="Bereket Adema"></a>  | PhD Candidate  | Prenatal substance use, offspring addiction and mental health |
 | **Bir Doj Rai** *  | PhD Candidate  | Epidemiology of zoonotic diseases events and their spatio-temporal trends in Bhutan |
-| **Scott Sims** * | PhD Candidate  | Alcohol-related harm in children and young adults |
+| **Scott Sims** * <br/> <a href="https://scholar.google.com/citations?hl=en&user=kRZ6WXgAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=kRZ6WXgAAAAJ&citpid=1" width="300" alt="Scott Sims"></a> | PhD Candidate  | Alcohol-related harm in children and young adults |
 | **Barbara Zileni** * | PhD Candidate | Continuity of antenatal care in Malawi |
 | **Wei Shan (Cassandra) Chong** * | PhD Candidate | Allergens, phenolic composition, and anti-microbial properties of Australian wattle seed species |
 
