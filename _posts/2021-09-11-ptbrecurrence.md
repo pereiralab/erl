@@ -11,6 +11,8 @@ Risk of preterm birth can be unintentionally miscommunicated when the previous p
 
 Here is a table of relative and absolute risk of preterm birth of the second child by gestational age of the first child for more than a quarter of a million women from Western Australia. We have also confirmed that these results are not unique to Western Australia by replication for an independent cohort of more than half a million women in New South Wales, Australia. The references to both studies with links to free online versions of the publications can be found in the References section at the bottom of the page.
 
+When thinking about your risk of having another preterm baby, consult your physician **and this table**.
+
 <a href="https://doi.org/10.1371/journal.pone.0245935"><img src="https://pereiralab.github.io/assets/pretermrecurrenceplos1.png" width="680" alt="Preterm recurrence"></a>   
 [Source: PLoS ONE](https://doi.org/10.1371/journal.pone.0245935)
  
