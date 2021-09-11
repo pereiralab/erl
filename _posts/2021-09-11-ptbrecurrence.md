@@ -7,11 +7,11 @@ categories:
  - media
 ---
 
-<img src="/assets/pretermrecurrenceplos1.tif"" width="680" alt="Research Outputs">
+<img src="/assets/pretermrecurrenceplos1.png"" width="680" alt="Research Outputs">
 
 
 
-<a href="https://doi.org/10.1371/journal.pone.0245935)"><img src="/assets/pretermrecurrenceplos1.tif"" width="680" alt="Research Outputs"></a> 
+<a href="https://doi.org/10.1371/journal.pone.0245935)"><img src="/assets/pretermrecurrenceplos1.png"" width="680" alt="Research Outputs"></a> 
 
  
  
