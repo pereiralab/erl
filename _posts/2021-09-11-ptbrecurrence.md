@@ -10,7 +10,7 @@ categories:
 
 
 <p align="center">
-<img src="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245935" width="600" height="600" />   
+<img src="https://gavinfpereira.github.io/assets/pretermrecurrenceplos1.tif" width="600" height="600" />   
 </p>
 
 [PLoS ONE](https://doi.org/10.1371/journal.pone.0245935)
