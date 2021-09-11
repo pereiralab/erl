@@ -12,6 +12,7 @@ categories:
 <p align="center">
 <img src="https://pereiralab.github.io/assets/pretermrecurrenceplos1.tif" width="600" height="600" />   
 </p>
+
 [PLoS ONE](https://doi.org/10.1371/journal.pone.0245935)
  
 
