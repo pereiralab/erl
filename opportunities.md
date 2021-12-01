@@ -7,6 +7,8 @@ title: "Opportunities"
 
 We host visiting scholars and are happy to collaborate on research projects related to our field or help develop applications for funding. Occassionally there is funding for short-term projects for postdocs. Research fellow positions for our team are advertised on the [institution's job portal](http://staff.curtin.edu.au/job-vacancies/#linkid=um-about-jobs-at-curtin-see-job-vacancies) but will also be posted here.
 
+Closing date 9 December 2021
+* [Recruiting two early career research associates](http://staff.curtin.edu.au/job-vacancies/?ja-job=401044)  
 
 # Training Opportunities
 
@@ -22,10 +24,6 @@ We take students with a first class honours degree or a Master degree. [Apply No
 Do you need a PhD scholarship to pay your tuition fees and provide a living stipend? Every year the university advertises scholarships. They usually open June or July and close in August. They are [advertised here](https://scholarships.curtin.edu.au/). You can contact us to help develop a project proposal. 
 
 In addition, there are strategic scholarships where the project is already specified. They are listed below.
-
-### Open
-
-### Closed
 
 Closing date 30 August 2021  
 * [Observing the unobserved: the causes and consequences of fertility decisions](https://scholarships.curtin.edu.au/Scholarship/?id=5288)  
