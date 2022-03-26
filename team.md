@@ -23,7 +23,7 @@ Click on the photos to see academic profiles for staff and Google Scholar profil
 | **Achamyeleh Birhanu Teshale** | PhD Candidate  | Stated preference research on reproductive and sexual health services for adolescents and young people: A discrete choice experiment |
 | **Merette Khalil** | PhD Candidate  | Perinatal and pediatric health outcomes following exposure to influenza and other respiratory viruses in utero |
 | **TBA** | PhD Candidate  | Incidence and costs associated with of adverse perinatal outcomes in Australia |
-| **Bir Doj Rai** *  | PhD Candidate  | Epidemiology of zoonotic diseases events and their spatio-temporal trends in Bhutan |
+| **Bir Doj Rai**   | PhD Candidate  | Epidemiology of zoonotic diseases events and their spatio-temporal trends in Bhutan |
 | **Scott Sims** * <br/> <a href="https://scholar.google.com/citations?hl=en&user=kRZ6WXgAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=kRZ6WXgAAAAJ&citpid=1" width="300" alt="Scott Sims"></a> | PhD Candidate  | Alcohol-related harm in children and young adults |
 | **Barbara Zileni** * | PhD Candidate | Continuity of antenatal care in Malawi |
 | **Wei Shan (Cassandra) Chong** * | PhD Candidate | Allergens, phenolic composition, and anti-microbial properties of Australian wattle seed species |
