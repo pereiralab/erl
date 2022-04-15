@@ -25,6 +25,10 @@ Do you need a PhD scholarship to pay your tuition fees and provide a living stip
 
 In addition, there are strategic scholarships where the project is already specified. They are listed below.
 
+Closing date 19 August 2022
+* [Scholarships for Australian Students - Applications open July 8th - Remember to contact one of our team before applying](https://scholarships.curtin.edu.au/hdr-scholarships-funding/rtp-policy/)
+* [Scholarships for International Students - Applications open July 8th - Remember to contact one of our team before applying](https://scholarships.curtin.edu.au/hdr-scholarships-funding/curtin-strategic-scholarships/)
+
 Closing date 30 August 2021  
 * [Observing the unobserved: the causes and consequences of fertility decisions](https://scholarships.curtin.edu.au/Scholarship/?id=5288)  
 * [Maps and models: informing prediction and control of infectious disease in Western Australia](https://scholarships.curtin.edu.au/Scholarship/?id=5345)  
