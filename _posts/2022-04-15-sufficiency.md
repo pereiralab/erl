@@ -14,4 +14,4 @@ x
  
 
 **References**
-* [Pereira G, Regan AK, Wong K, Tessema GA. Gestational age as a predictor for subsequent preterm birth in New South Wales, Australia. BMC Pregnancy Childbirth 21, 607.](https://doi.org/10.3390/ijerph19042036)
+* [Pereira, G. A Simple Method to Establish Sufficiency and Stability in Meta-Analyses: With Application to Fine Particulate Matter Air Pollution and Preterm Birth. Int. J. Environ. Res. Public Health 2022, 19, 2036.](https://doi.org/10.3390/ijerph19042036)
