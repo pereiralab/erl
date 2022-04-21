@@ -11,6 +11,7 @@ title: Service
  
 | Role | Organisation | Year(s) |
 | ---- | ---- | ---- |
+| Section Editor in Chief - Reproductive Health | International Journal of Environmental Research and Public Health | 2022- |
 | Clinical fellowship practitioner reviewer | Health Council of New Zealand |		2021 |
 | Panel member | European Commission, Horizon Europe Cluster 1 Health|	2021 |
 | Panel member | National Health & Medical Research Council Investigator Grant Review Panel |			2020-2021 |
