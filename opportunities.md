@@ -23,11 +23,20 @@ We take students with a first class honours degree or a Master degree. [Apply No
 
 Do you need a PhD scholarship to pay your tuition fees and provide a living stipend? Every year the university advertises scholarships. They usually open June or July and close in August. They are [advertised here](https://scholarships.curtin.edu.au/). You can contact us to help develop a project proposal. 
 
-In addition, there are strategic scholarships where the project is already specified. They are listed below.
-
-Closing date 19 August 2022
+Scholarships by residency status
 * [Scholarships for Australian Students - Applications open July 8th - Remember to contact one of our team before applying](https://scholarships.curtin.edu.au/hdr-scholarships-funding/rtp-policy/)
 * [Scholarships for International Students - Applications open July 8th - Remember to contact one of our team before applying](https://scholarships.curtin.edu.au/hdr-scholarships-funding/curtin-strategic-scholarships/)
+
+In addition, there are strategic scholarships where the project is already specified. Some are for international students. Others are for only domestic students. They are listed below. Note that dead links implies that either the closing date has passed or the scholarship has been taken.
+
+Closing date 18 August 2022
+* [Effects of the COVID-19 pandemic on antenatal care and pregnancy outcomes in low and lower middle-income countries](https://scholarships.curtin.edu.au/Scholarship/?id=5931)
+* [Causes and consequences of sub-fertility in high-income countries](https://scholarships.curtin.edu.au/Scholarship/?id=6074)
+* [Investigating trends of and prenatal and early life exposures associated with adverse child development outcomes in Australia](https://scholarships.curtin.edu.au/Scholarship/?id=5933)
+* [Under-five mortality in the era of sustainable development goals in low-and middle-income countries: burden and trends](https://scholarships.curtin.edu.au/Scholarship/?id=5932)
+* [Mapping the prevalence and impacts of pregnancy termination in low and middle income countries](https://scholarships.curtin.edu.au/Scholarship/?id=5927)
+* [Stated preferences of mothers for antenatal care (ANC), delivery and postnatal care (PNC): a discrete choice experiment](https://scholarships.curtin.edu.au/Scholarship/?id=5938) 
+* [Effects of maternal continuum of care on maternal, neonatal, and infant health outcomes in low- and middle-income countries](https://scholarships.curtin.edu.au/Scholarship/?id=5928)
 
 Closing date 30 August 2021  
 * [Observing the unobserved: the causes and consequences of fertility decisions](https://scholarships.curtin.edu.au/Scholarship/?id=5288)  
