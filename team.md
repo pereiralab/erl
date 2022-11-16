@@ -23,9 +23,9 @@ Click on the photos to see academic profiles for staff and Google Scholar profil
 | **Tsegaye Haile** | PhD Candidate  | Incidence and costs associated with of adverse perinatal outcomes in Australia |
 | **Kendalem Asmare** <br/> <a href="https://scholar.google.com/citations?user=mdDCV0QAAAAJ&hl=en&oi=ao"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=mdDCV0QAAAAJ&citpid=1" width="300" alt="Kendalem Asmare"></a> | PhD Candidate  | Investigating trends and risk of prenatal and early life exposures on child development in Australia |
 | **Bereket Kefale** | PhD Candidate  | Under-five mortality in the era of sustainable development goals in low- and middle-income countries: burden and trends |
+| **Bir Doj Rai** <br/> <a href="[https://scholar.google.com/citations?user=mdDCV0QAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?hl=en&user=1DqHEMQAAAAJ)"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=1DqHEMQAAAAJ&citpid=1" width="300" alt="*Bir Doj Rai"></a> | PhD Candidate  | Epidemiology of zoonotic diseases events and their spatio-temporal trends in Bhutan |
 | **TBA** | PhD Candidate  | Stated preference research on reproductive and sexual health services for adolescents and young people: A discrete choice experiment |
 | **TBA** | PhD Candidate  | Perinatal and pediatric health outcomes following exposure to influenza and other respiratory viruses in utero |
-| **Bir Doj Rai**   | PhD Candidate  | Epidemiology of zoonotic diseases events and their spatio-temporal trends in Bhutan |
 | **Scott Sims** * <br/> <a href="https://scholar.google.com/citations?hl=en&user=kRZ6WXgAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=kRZ6WXgAAAAJ&citpid=1" width="300" alt="Scott Sims"></a> | PhD Candidate  | Alcohol-related harm in children and young adults |
 | **Marwan Ahmed** * | PhD Candidate  | Epidemiology of gestational diabetes in Western Australia |
 | **Barbara Zileni** * | PhD Candidate | Continuity of antenatal care in Malawi |
