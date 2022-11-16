@@ -7,8 +7,8 @@ Click on the photos to see academic profiles for staff and Google Scholar profil
 
 | Name | Role | Topic |
 | --------------- | --------------- | --------------- |
-| **Prof Gavin Pereira** <br/> <a href="https://research.curtin.edu.au/researcher/gavin-pereira-0374b4b1/"><img src="https://s3-ap-southeast-2.amazonaws.com/curtin-staff-profile-images-prd/gavin-pereira-0374b4b1.jpg" width="300" alt="Gavin Pereira"></a> | Head of Lab | Epidemiology. [Website...](https://gavinfpereira.github.io/) |
-| **Dr Gizachew Tessema** <br/> <a href="https://staffportal.curtin.edu.au/staff/profile/view/gizachew-tessema-f47032fa/"><img src="https://s3-ap-southeast-2.amazonaws.com/curtin-staff-profile-images-prd/gizachew-tessema-f47032fa.JPG?ver=0.8966930040106547" width="300" alt="Gizachew Tessema"></a> | Project Lead | Reproductive health|
+| **Prof Gavin Pereira** <br/> <a href="https://research.curtin.edu.au/researcher/gavin-pereira-0374b4b1/"><img src="https://s3-ap-southeast-2.amazonaws.com/curtin-staff-profile-images-prd/gavin-pereira-0374b4b1.jpg" width="300" alt="Gavin Pereira"></a> | co-Head of Lab | Epidemiology. [Website...](https://gavinfpereira.github.io/) |
+| **Dr Gizachew Tessema** <br/> <a href="https://staffportal.curtin.edu.au/staff/profile/view/gizachew-tessema-f47032fa/"><img src="https://s3-ap-southeast-2.amazonaws.com/curtin-staff-profile-images-prd/gizachew-tessema-f47032fa.JPG?ver=0.8966930040106547" width="300" alt="Gizachew Tessema"></a> | co-Head of Lab | Reproductive health|
 | **Dr Annette Regan** <br/> <a href="https://staffportal.curtin.edu.au/staff/profile/view/annette-regan-a3602cf2/"><img src="https://s3-ap-southeast-2.amazonaws.com/curtin-staff-profile-images-prd/annette-regan-a3602cf2.jpg?ver=0.869428033017676" width="300" alt="Annette Regan"></a> | Project Lead (USFCA) | Infectious disease and vaccination|
 | **Dr Michael (Luke) Marinovich** <br/> <a href="https://staffportal.curtin.edu.au/staff/profile/view/luke-marinovich-e13bed6c/"><img src="https://1o2l7w1aqqrk1f987e40vzis-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/LM-headshot-28022020-350.jpg" width="300" alt="Luke Marinovich"></a> | Project Lead  | Health service technology |
 | **Dr Amanuel Gebremedhin** <br/> <a href="https://scholar.google.com/citations?user=JGs1vkYAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=JGs1vkYAAAAJ&citpid=11" width="300" alt="Amanuel Gebremedhin"></a> | Research Fellow  | Interpregnancy intervals and pregnancy complications |
@@ -48,8 +48,11 @@ Click on the photos to see academic profiles for staff and Google Scholar profil
 
 # Affiliations of research leaders
 
-Gavin Pereira <sup>1,2,3</sup> 
+Gavin Pereira <sup>1,2,3,4</sup> 
+Gizachew Tessema <sup>1,5</sup>
+
 1. Curtin School of Population Health, Curtin University, WA, Australia 
 2. enAble Institute, Curtin University, WA, Australia 
 3. Centre for Fertility and Health (CeFH), Norwegian Institute of Public Health, Oslo, Norway
-
+4. WHO Collaborating Centre for Environmental Health Impact Assessment. Faculty of Health Science, Curtin University, WA, Australia
+5. School of Public Health, University of Adelaide, SA, Australia
