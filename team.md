@@ -31,6 +31,8 @@ Click on the photos to see academic profiles for staff and Google Scholar profil
 | **Barbara Zileni** * | PhD Candidate | Continuity of antenatal care in Malawi |
 | **Wei Shan (Cassandra) Chong** * | PhD Candidate | Allergens, phenolic composition, and anti-microbial properties of Australian wattle seed species |
 
+<br/> <a href="https://scholar.google.com/citations?hl=en&user=auD3V2kAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=auD3V2kAAAAJ&citpid=3" width="300" alt="*Bereket Kefale"></a>
+
 
 \* Higher degree student research led by an academic external to the lab
 
