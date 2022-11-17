@@ -22,7 +22,7 @@ Click on the photos to see academic profiles for staff and Google Scholar profil
 | **Dr Ravisha Srinivasjois** <br/> <a href="https://www.ramsayhealth.com.au/Specialists/joondalup-private-hospital/neonatology/102258/dr-ravisha-srinivas-jois"><img src="https://ramsayprod.blob.core.windows.net/media/specialist/profilepictures/6851.jpg?v=637632657120765726" width="300" alt="Ravisha Srinivasjois"></a> | PhD Candidate, Neonatologist and Paediatrician | Probiotics to reduce morbidity among preterm infants |
 | **Tsegaye Haile** <br/> <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4Kr7YcUOuOhH9ts9im3bvruXe5DYYhsKlJzb7DNYuSSnEkZOdaUaMu8UJVKwlTdPzvT2uW5Mtq2Q5Ww1nOtptY6cryTg&user=C1ZU3usAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=C1ZU3usAAAAJ&citpid=1" width="300" alt="Tsegaye Haile"></a> | PhD Candidate  | Incidence and costs associated with of adverse perinatal outcomes in Australia |
 | **Kendalem Asmare** <br/> <a href="https://scholar.google.com/citations?user=mdDCV0QAAAAJ&hl=en&oi=ao"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=mdDCV0QAAAAJ&citpid=1" width="300" alt="Kendalem Asmare"></a> | PhD Candidate  | Investigating trends and risk of prenatal and early life exposures on child development in Australia |
-| **Bereket Kefale** | PhD Candidate  | Under-five mortality in the era of sustainable development goals in low- and middle-income countries: burden and trends |
+| **Bereket Kefale** <br/> <a href="https://scholar.google.com/citations?hl=en&user=auD3V2kAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=auD3V2kAAAAJ&citpid=3" width="300" alt="*Bereket Kefale"></a> | PhD Candidate  | Under-five mortality in the era of sustainable development goals in low- and middle-income countries: burden and trends |
 | **Bir Doj Rai** <br/> <a href="[https://scholar.google.com/citations?user=mdDCV0QAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?hl=en&user=1DqHEMQAAAAJ)"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=1DqHEMQAAAAJ&citpid=1" width="300" alt="*Bir Doj Rai"></a> | PhD Candidate  | Epidemiology of zoonotic diseases events and their spatio-temporal trends in Bhutan |
 | **Melaku Birhanu Alemu** <br/> <a href="https://scholar.google.com.au/citations?user=uLZSI9sAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=uLZSI9sAAAAJ&citpid=3" width="300" alt="Melaku Birhanu Alemu"></a> | PhD Candidate  | Stated preference research on reproductive and sexual health services for adolescents and young people: A discrete choice experiment |
 | **TBA** | PhD Candidate  | Perinatal and pediatric health outcomes following exposure to influenza and other respiratory viruses in utero |
@@ -30,9 +30,6 @@ Click on the photos to see academic profiles for staff and Google Scholar profil
 | **Marwan Ahmed** * | PhD Candidate  | Epidemiology of gestational diabetes in Western Australia |
 | **Barbara Zileni** * | PhD Candidate | Continuity of antenatal care in Malawi |
 | **Wei Shan (Cassandra) Chong** * | PhD Candidate | Allergens, phenolic composition, and anti-microbial properties of Australian wattle seed species |
-
-<br/> <a href="https://scholar.google.com/citations?hl=en&user=auD3V2kAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=auD3V2kAAAAJ&citpid=3" width="300" alt="*Bereket Kefale"></a>
-
 
 \* Higher degree student research led by an academic external to the lab
 
