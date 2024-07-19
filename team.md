@@ -7,7 +7,7 @@ Click on the photos to see academic profiles for staff and Google Scholar profil
 
 | Name | Role | Topic |
 | --------------- | --------------- | --------------- |
-| **Prof Gavin Pereira** <br/> <a href="https://research.curtin.edu.au/researcher/gavin-pereira-0374b4b1/"><img src="https://s3-ap-southeast-2.amazonaws.com/curtin-staff-profile-images-prd/gavin-pereira-0374b4b1.jpg" width="300" alt="Gavin Pereira"></a> | co-Head of Lab | Epidemiology. [Website...](https://gavinfpereira.github.io/) |
+| **Prof Gavin Pereira** <br/> <a href="https://staffportal.curtin.edu.au/staff/profile/view/gavin-pereira-0374b4b1/"><img src="https://s3-ap-southeast-2.amazonaws.com/curtin-staff-profile-images-prd/gavin-pereira-0374b4b1.jpeg?ver=0.3577064867692783" width="300" alt="Gavin Pereira"></a> | co-Head of Lab | Epidemiology. [Website...](https://gavinfpereira.github.io/) |
 | **Dr Gizachew Tessema** <br/> <a href="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=x61kRTgAAAAJ&citpid=29"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=x61kRTgAAAAJ&citpid=29" width="300" alt="Gizachew Tessema"></a> | co-Head of Lab | Reproductive health|
 | **Dr Annette Regan** <br/> <a href="https://staffportal.curtin.edu.au/staff/profile/view/annette-regan-a3602cf2/"><img src="https://s3-ap-southeast-2.amazonaws.com/curtin-staff-profile-images-prd/annette-regan-a3602cf2.jpg?ver=0.869428033017676" width="300" alt="Annette Regan"></a> | Project Lead (USFCA) | Infectious disease and vaccination|
 | **Dr Michael (Luke) Marinovich** <br/> | Project Lead  | Health service technology |
