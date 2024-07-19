@@ -31,6 +31,7 @@ In addition, there are strategic scholarships where the project is already speci
 
 Closing date 18 August 2024
 * [Climate-related exposure and health: what would it take to change our decision-making?](https://scholarships.curtin.edu.au/Scholarship/?id=7200)
+* [Geospatial mapping of heat and vulnerability of populations to heat in Australia](https://scholarships.curtin.edu.au/Scholarship/?id=7218)
 
 Closing date 18 August 2022
 * [Effects of the COVID-19 pandemic on antenatal care and pregnancy outcomes in low and lower middle-income countries](https://scholarships.curtin.edu.au/Scholarship/?id=5931)
