@@ -1,9 +1,9 @@
 ---
 type: page
-title: "Team"
+title: "Team and Alumni"
 ---
 
-Click on the photos to see academic profiles for staff and Google Scholar profiles for students. 
+Click on the photos to see academic profiles current and alumni staff and students. 
 
 | Name | Role | Topic |
 | --------------- | --------------- | --------------- |
