@@ -48,11 +48,10 @@ Click on the photos to see academic profiles current and alumni staff and studen
 
 # Affiliations of research leaders
 
-Gavin Pereira <sup>1,2,3,4</sup> 
-Gizachew Tessema <sup>1,2,5</sup>
+Gavin Pereira <sup>1,2,3</sup> 
+Gizachew Tessema <sup>1,2,4</sup>
 
 1. Curtin School of Population Health, Curtin University, WA, Australia 
 2. enAble Institute, Curtin University, WA, Australia 
-3. Centre for Fertility and Health (CeFH), Norwegian Institute of Public Health, Oslo, Norway
-4. WHO Collaborating Centre for Environmental Health Impact Assessment. Faculty of Health Science, Curtin University, WA, Australia
-5. School of Public Health, University of Adelaide, SA, Australia
+3. WHO Collaborating Centre for Environmental Health Impact Assessment. Faculty of Health Science, Curtin University, WA, Australia
+4. School of Public Health, University of Adelaide, SA, Australia
