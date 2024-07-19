@@ -29,6 +29,9 @@ Scholarships by residency status
 
 In addition, there are strategic scholarships where the project is already specified. Some are for international students. Others are for only domestic students. They are listed below. Note that dead links implies that either the closing date has passed or the scholarship has been taken.
 
+Closing date 18 August 2024
+* [Climate-related exposure and health: what would it take to change our decision-making?](https://scholarships.curtin.edu.au/Scholarship/?id=7200)
+
 Closing date 18 August 2022
 * [Effects of the COVID-19 pandemic on antenatal care and pregnancy outcomes in low and lower middle-income countries](https://scholarships.curtin.edu.au/Scholarship/?id=5931)
 * [Causes and consequences of sub-fertility in high-income countries](https://scholarships.curtin.edu.au/Scholarship/?id=6074)
